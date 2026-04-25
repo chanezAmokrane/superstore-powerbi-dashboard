@@ -75,7 +75,7 @@ L’analyse des produits les plus performants montre que le produit **Zebra ZM40
 
 ### 📦 Analyse des catégories
 
-![Treemap catégories](images/treemap-categories.png)
+![Treemap catégories](treemap-categories.png)
 
 À partir du Treemap, on observe que la catégorie **Technology** est la plus performante en termes de chiffre d’affaires, suivie par **Furniture** puis **Office Supplies**.
 
