@@ -80,27 +80,23 @@ L’analyse des produits les plus performants montre que le produit **Zebra ZM40
 À partir du Treemap, on observe que la catégorie **Technology** est la plus performante en termes de chiffre d’affaires, suivie par **Furniture** puis **Office Supplies**.
 
 ---
+## 🌍 Analyse géographique
 
-### Page 1 — Vue globale
-- KPI : CA total, Profit total, Nb commandes, Taux de marge
-- Évolution mensuelle du chiffre d’affaires
-- Top 10 produits par CA
-- Filtres : Année, Région, Segment, Catégorie
+![CA vs Profit par Région](images/CA vs profit par region.png)
 
-### Page 2 — Produits & Catégories
+On observe que la région **West** génère le chiffre d’affaires le plus élevé, suivie par **East**, tandis que **South** et **Central** restent moins performantes.
 
-- Graphique combiné : CA vs Profit
-- Scatter plot : Remise vs Profit
-- Table détaillée des produits
-
-### Page 3 — Géographie & Segments
-- Analyse par région / pays
-- Top 10 zones géographiques
-- Répartition du CA par segment client
+Côté rentabilité, la majorité des régions sont positives, mais la région **Central** présente une perte, ce qui peut indiquer un problème de performance sur ce marché. À l’inverse, **West** reste la région la plus solide, à la fois en chiffre d’affaires et en profit.
   
 
 ---
+## 📈 Évolution des ventes
 
+![Évolution du CA](evolution-ca.png)
+
+On observe une baisse du chiffre d’affaires en 2015 par rapport à 2014. Cependant, les ventes repartent à la hausse en 2016 et continuent de progresser en 2017.
+
+Globalement, la tendance est positive sur la période, avec une croissance significative à partir de 2016.
 
 
 ## 💡 Insights
