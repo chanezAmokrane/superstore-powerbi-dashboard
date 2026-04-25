@@ -110,6 +110,19 @@ On observe que le segment **Consumer** génère la plus grande part du chiffre d
 Globalement, l’entreprise dépend fortement du segment **Consumer**, qui constitue le principal moteur de revenus.
 
 ---
+## 💸 Analyse de l’impact des remises sur la rentabilité
+
+![Impact Discount vs Profit](Discount_Profit.png)
+
+On observe que la catégorie **Office Supplies** présente les niveaux de remises les plus élevés sur l’ensemble des années, tout en générant un profit globalement positif.  
+
+À l’inverse, la catégorie **Furniture**, malgré des niveaux de remises significatifs, affiche des profits plus faibles, voire irréguliers selon les années.  
+
+La catégorie **Technology** maintient un bon niveau de profit avec des remises plus modérées, ce qui indique une meilleure maîtrise de la rentabilité.
+
+Globalement, ces résultats montrent que des remises élevées n’entraînent pas systématiquement des pertes, mais leur impact dépend fortement de la catégorie de produit.
+
+---
 ## 💡 Insights
 
 
