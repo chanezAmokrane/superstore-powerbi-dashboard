@@ -56,6 +56,8 @@ Variation % = DIVIDE([CA Total] - [CA N-1], [CA N-1], 0)
 ---
 ### Repondre ou questions 
 
+### chiffre d'affaires total, la marge et le nombre de commandes sur une période donnée 
+
 En 2014, le chiffre d’affaires est de 484,25K € avec un profit de 49,54K € pour 969 commandes.
 
 En 2015, le chiffre d’affaires diminue légèrement à 470,53K €, avec un profit de 61,62K € pour 1038 commandes.
