@@ -112,9 +112,7 @@ Globalement, l’entreprise dépend fortement du segment **Consumer**, qui const
 ---
 ## 💡 Insights
 
-- Les fortes remises impactent négativement le profit
-- Le segment Consumer génère la majorité du chiffre d’affaires
-- Certaines régions sont plus performantes que d’autres
+
 
 ---
 
