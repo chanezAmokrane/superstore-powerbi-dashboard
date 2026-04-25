@@ -101,7 +101,7 @@ Globalement, la tendance est positive sur la période, avec une croissance signi
 ---
 ## 👥 Analyse des segments clients
 
-![CA par Segment](images/ca-par-segment.png)
+![CA par Segment](Parformance par segement.png)
 
 On observe que le segment **Consumer** génère la plus grande part du chiffre d’affaires, représentant plus de la moitié des ventes. Le segment **Corporate** arrive en deuxième position avec une contribution significative, tandis que **Home Office** reste le segment le moins performant.
 
