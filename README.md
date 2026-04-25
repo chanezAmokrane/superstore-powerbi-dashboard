@@ -82,7 +82,7 @@ L’analyse des produits les plus performants montre que le produit **Zebra ZM40
 ---
 ## 🌍 Analyse géographique
 
-![CA vs Profit par Région](images/CA vs profit par region.png)
+![CA vs Profit par Région](CA vs profit par region.png)
 
 On observe que la région **West** génère le chiffre d’affaires le plus élevé, suivie par **East**, tandis que **South** et **Central** restent moins performantes.
 
@@ -101,7 +101,7 @@ Globalement, la tendance est positive sur la période, avec une croissance signi
 ---
 ## 👥 Analyse des segments clients
 
-![CA par Segment](Parformance par segement.png)
+![Évolution du CA](Parformance par segement.png)
 
 On observe que le segment **Consumer** génère la plus grande part du chiffre d’affaires, représentant plus de la moitié des ventes. Le segment **Corporate** arrive en deuxième position avec une contribution significative, tandis que **Home Office** reste le segment le moins performant.
 
