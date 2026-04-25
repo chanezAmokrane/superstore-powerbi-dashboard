@@ -67,7 +67,7 @@ En 2017, le chiffre d’affaires atteint son niveau le plus élevé avec 733,22K
 
 ### 🔝 Produits les plus performants
 
-![Top produits](images/top-produits.png)
+![Top produits](top_produits.png)
 
 L’analyse des produits les plus performants montre que le produit **Zebra ZM400 Thermal Label Printer** génère le chiffre d’affaires le plus élevé. Il est suivi par **Zebra GX420t Direct Thermal Printer**, qui constitue également une part importante des ventes.
 
