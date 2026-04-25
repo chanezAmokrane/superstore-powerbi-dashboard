@@ -98,7 +98,16 @@ On observe une baisse du chiffre d’affaires en 2015 par rapport à 2014. Cepen
 
 Globalement, la tendance est positive sur la période, avec une croissance significative à partir de 2016.
 
+---
+## 👥 Analyse des segments clients
 
+![CA par Segment](images/ca-par-segment.png)
+
+On observe que le segment **Consumer** génère la plus grande part du chiffre d’affaires, représentant plus de la moitié des ventes. Le segment **Corporate** arrive en deuxième position avec une contribution significative, tandis que **Home Office** reste le segment le moins performant.
+
+Globalement, l’entreprise dépend fortement du segment **Consumer**, qui constitue le principal moteur de revenus.
+
+---
 ## 💡 Insights
 
 - Les fortes remises impactent négativement le profit
