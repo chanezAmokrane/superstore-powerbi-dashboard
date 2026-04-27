@@ -134,6 +134,16 @@ L’analyse des segments montre une forte contribution du segment Consumer, qui 
 
 Aucun déséquilibre majeur n’est observé entre les segments, ce qui traduit une structure commerciale globalement saine. Néanmoins, cette configuration met en évidence une dépendance au segment Consumer, ainsi qu’un potentiel de développement sur les segments Corporate et Home Office.
 
+## 👥Analyse de la performance et de la rentabilité par catégorie
+
+![Analyse des segments et categories](Taux-marge-CA-segment-et-categories.png)
+
+La catégorie Technology est la seule à allier volume et rentabilité de manière constante, ce qui en fait le principal levier de performance.
+
+Office Supplies reste globalement rentable, mais avec une performance hétérogène selon les segments, indiquant un potentiel d’optimisation ciblée.
+
+En revanche, Furniture montre une inefficacité structurelle : malgré un volume significatif, la marge reste très faible, en particulier sur le segment Consumer.
+
 ---
 ## 💡 Insights
 
