@@ -126,6 +126,14 @@ La catégorie **Technology** maintient un bon niveau de profit avec des remises 
 
 Globalement, ces résultats montrent que des remises élevées n’entraînent pas systématiquement des pertes, mais leur impact dépend fortement de la catégorie de produit.
 
+## 👥 Analyse des segments clients
+
+![Analyse des segments](images/Info-sur-segement.png)
+
+L’analyse des segments montre une forte contribution du segment Consumer, qui constitue le principal moteur de revenus. Les segments Corporate et Home Office restent secondaires mais présentent une dynamique de croissance progressive.
+
+Aucun déséquilibre majeur n’est observé entre les segments, ce qui traduit une structure commerciale globalement saine. Néanmoins, cette configuration met en évidence une dépendance au segment Consumer, ainsi qu’un potentiel de développement sur les segments Corporate et Home Office.
+
 ---
 ## 💡 Insights
 
