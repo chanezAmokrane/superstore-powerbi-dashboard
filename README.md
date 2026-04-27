@@ -187,9 +187,11 @@ Le segment Home Office est globalement rentable, mais certaines sous-catégories
 ---
 ## 💡 Insights clés
 
-- La performance globale masque des pertes ciblées : certaines sous-catégories comme **Tables et Bookcases** génèrent du chiffre d’affaires mais restent non rentables.  
+- Les sous-catégories **Tables et Bookcases** génèrent du chiffre d’affaires mais restent non rentables, ce qui dégrade directement la performance globale.
 
-- La croissance du chiffre d’affaires ne s’accompagne pas toujours d’une amélioration de la rentabilité, ce qui met en évidence une qualité de revenu hétérogène selon les produits et segments.  
+- La catégorie **Technology** est la seule à combiner volume et rentabilité, ce qui en fait le principal levier de croissance.
+
+- La performance globale repose fortement sur le segment **Consumer**, ce qui crée une dépendance et limite la diversification des sources de revenus.
 
 ---
 
