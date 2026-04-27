@@ -185,10 +185,19 @@ Cependant, **Tables** reste déficitaire, avec une marge négative, ce qui indiq
 Le segment Home Office est globalement rentable, mais certaines sous-catégories comme Tables continuent de dégrader la performance et nécessitent une attention particulière.
 
 ---
-## 💡 Insights
+## 💡 Insights clés
 
+- La performance globale masque des pertes ciblées : certaines sous-catégories comme **Tables et Bookcases** génèrent du chiffre d’affaires mais restent non rentables.  
 
+- La croissance du chiffre d’affaires ne s’accompagne pas toujours d’une amélioration de la rentabilité, ce qui met en évidence une qualité de revenu hétérogène selon les produits et segments.  
 
+---
+
+## 🚀 Recommandations
+
+- Optimiser la rentabilité des sous-catégories déficitaires (notamment **Tables**) en ajustant la stratégie de prix et de remises afin de limiter les ventes à perte.  
+
+- Renforcer les sous-catégories à forte marge (comme **Copiers, Paper et Labels**) en orientant les efforts commerciaux et marketing vers ces produits pour améliorer la performance globale.
 ---
 
 ## 🚀 À venir
