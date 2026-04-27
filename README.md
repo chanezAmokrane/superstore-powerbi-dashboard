@@ -128,7 +128,7 @@ Globalement, ces résultats montrent que des remises élevées n’entraînent p
 
 ## 👥 Analyse des segments clients
 
-![Analyse des segments](images/Info-sur-segement.png)
+![Analyse des segments](Info-sur-segement.png)
 
 L’analyse des segments montre une forte contribution du segment Consumer, qui constitue le principal moteur de revenus. Les segments Corporate et Home Office restent secondaires mais présentent une dynamique de croissance progressive.
 
