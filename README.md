@@ -144,6 +144,18 @@ Office Supplies reste globalement rentable, mais avec une performance hétérog�
 
 En revanche, Furniture montre une inefficacité structurelle : malgré un volume significatif, la marge reste très faible, en particulier sur le segment Consumer.
 
+## 📊 Analyse de la rentabilité par sous-catégorie
+
+![Rentabilité par sous-catégorie](rentabilite-sub-category-consumer.png)
+
+La rentabilité au sein du segment Consumer est fortement contrastée selon les sous-catégories.  
+
+Des sous-catégories comme **Copiers, Paper, Labels et Envelopes** affichent des marges élevées et contribuent significativement au profit.  
+
+À l’inverse, **Tables, Bookcases et Supplies** présentent des marges négatives, indiquant des pertes malgré un volume de ventes parfois élevé.  
+
+La priorité n’est pas d’optimiser le volume, mais d’améliorer la rentabilité en ciblant les sous-catégories déficitaires.
+
 ---
 ## 💡 Insights
 
