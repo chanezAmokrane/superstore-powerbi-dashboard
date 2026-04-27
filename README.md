@@ -84,12 +84,16 @@ L’analyse des produits les plus performants montre que le produit **Zebra ZM40
 ---
 ## 🌍 Analyse géographique
 
-![CA vs Profit par Région](CA-profit-par-region.png)
+![CA vs Profit par Région](CA-profit-par-region.png) 
 
-On observe que la région **West** génère le chiffre d’affaires le plus élevé, suivie par **East**, tandis que **South** et **Central** restent moins performantes.
 
-Côté rentabilité, la majorité des régions sont positives, mais la région **Central** présente une perte, ce qui peut indiquer un problème de performance sur ce marché. À l’inverse, **West** reste la région la plus solide, à la fois en chiffre d’affaires et en profit.
-  
+On observe que la région **West** domine largement en termes de chiffre d’affaires, avec également le niveau de profit le plus élevé. La région **East** affiche également de bonnes performances, bien qu’en retrait par rapport à West.
+
+La région **Central** génère un chiffre d’affaires correct avec un profit positif, ce qui indique une rentabilité globale satisfaisante.
+
+En revanche, la région **South** reste plus faible, avec un volume d’activité limité et un niveau de profit relativement bas.
+
+Globalement, toutes les régions sont rentables, mais on observe un écart de performance important entre les régions les plus fortes (West, East) et les plus faibles (South).
 
 ---
 ## 📈 Évolution des ventes
