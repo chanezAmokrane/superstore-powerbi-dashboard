@@ -8,9 +8,13 @@ L’objectif est de visualiser rapidement les indicateurs clés et d’identifie
 
 ---
 
+## 🎬 Démonstration vidéo
+
 <div align="center">
 
-[![▶️ Voir la démo](https://via.placeholder.com/800x400/1a1a2e/ffffff?text=▶️+Clique+pour+voir+la+démo+Power+BI)](https://cap.link/hc6dx840snyv79y)
+[![▶️ Voir la démo](dashboard.png)](https://cap.link/hc6dx840snyv79y)
+
+**[▶️ Clique ici pour voir la démonstration complète](https://cap.link/hc6dx840snyv79y)**
 
 </div>
 
