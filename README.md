@@ -12,7 +12,7 @@ L’objectif est de visualiser rapidement les indicateurs clés et d’identifie
 
 <div align="center">
 
-[![▶️ Voir la démo](dashboard.png)](https://cap.link/hc6dx840snyv79y)
+[![▶️ Voir la démo](dashBoard.png)](https://cap.link/hc6dx840snyv79y)
 
 **[▶️ Clique ici pour voir la démonstration complète](https://cap.link/hc6dx840snyv79y)**
 
