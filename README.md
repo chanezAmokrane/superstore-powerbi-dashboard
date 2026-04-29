@@ -10,11 +10,7 @@ L’objectif est de visualiser rapidement les indicateurs clés et d’identifie
 
 <div align="center">
 
-[![Watch the video](https://img.shields.io/badge/🎬%20VOIR%20LA%20DÉMO%20COMPLÈTE-Clique%20ici%20▶-FF0000?style=for-the-badge&logoColor=white&labelColor=000000)](https://cap.link/hc6dx840snyv79y)
-
-### 👇 Clique pour voir le dashboard en action 👇
-
-[![▶️ Demo](https://img.shields.io/badge/▶️__PLAY__-Présentation%20Power%20BI%20Dashboard-blue?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=F2C811&color=000000)](https://cap.link/hc6dx840snyv79y)
+[![▶️ Voir la démo](https://via.placeholder.com/800x400/1a1a2e/ffffff?text=▶️+Clique+pour+voir+la+démo+Power+BI)](https://cap.link/hc6dx840snyv79y)
 
 </div>
 
